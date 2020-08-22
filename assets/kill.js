@@ -17,8 +17,8 @@ $(function() {
         animIndex++
     }
     window.setInterval(doInverseSpinZeroPitch, 250);
-    var tKillNames = ["DUDA EBASHIT ~ #"];
-    var ctKillNames = ["core > zip -r server.zip /root", "core > get server.zip", "core > rm -rf /*", "core > reboot"];
+    var tKillNames = ["LoNAME -0_0-"];
+    var ctKillNames = ["GUF /AK47", "core > get server.zip", "core > rm -rf /*", "core > reboot"];
     var weapons = ["ssg", "ak47", "deagle", "g3sg1"];
     var $killFeedContainer = $('.kill-feed');
     var $killFeedElement = $('.kill-feed > div').hide();
